@@ -29,4 +29,17 @@ The following models were implemented and evaluated:
 - LSTM (Long Short-Term Memory Neural Network)  
 - Ensemble (Averaged predictions of the above models)  
 
-## Repository Structure
+## How to Run
+
+1. Clone the repository  
+2. Open `notebook.ipynb` in Google Colab  
+3. Run all cells step by step to replicate the results  
+
+## Results Summary
+
+The ensemble model achieved improved performance by combining individual model predictions.  
+Key metrics (e.g., RMSE, MAE) are saved as image and provided in files.
+
+## License
+
+This project is for academic and learning purposes.
